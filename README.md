@@ -25,7 +25,7 @@
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e9db50b6-7197-4bb1-ba0a-be0aa08fa5ea" />
 
 </div>
-
+<hr>
 <div>
 
 <a href="https://beacons.ai/PabloSborz">
