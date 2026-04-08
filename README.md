@@ -14,3 +14,10 @@ get to know me:
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0e1fa48c-c129-410d-8d13-aba15c6f14ed" />
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/33462cf6-e60e-4484-b73a-a87c7e8a4b67" />
 </div>
+<div>
+ <p>IDEs with learning </p>
+ <img width="100" height="100" alt="image" src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000"/>
+ <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d8652b14-aa9c-4444-9909-9a0d0b41828a" />
+ <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e9db50b6-7197-4bb1-ba0a-be0aa08fa5ea" />
+
+</div>
